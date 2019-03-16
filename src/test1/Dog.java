@@ -20,7 +20,5 @@ public class Dog{
     }
    
     public static void main(String arg[]){
-        // 创建对象时传递的参数要与构造方法参数列表对应
-        Dog myDog = new Dog("花花", 3);
     }
 }
